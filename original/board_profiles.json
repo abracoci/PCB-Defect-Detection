@@ -1,0 +1,14 @@
+{
+  "B01": {
+    "width": 1172,
+    "height": 672,
+    "reference_images": 8,
+    "margin": 150
+  },
+  "B02": {
+    "width": 1211,
+    "height": 696,
+    "reference_images": 8,
+    "margin": 150
+  }
+}

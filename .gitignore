@@ -1,0 +1,15 @@
+﻿__pycache__/
+*.py[cod]
+.venv/
+venv/
+test_output/
+test_original/
+test_original_v2/
+test_augmented/
+output*/
+*.log
+.DS_Store
+Thumbs.db
+
+/original/diagnostico_visual.py
+/original/diagnostico_bordes.py
